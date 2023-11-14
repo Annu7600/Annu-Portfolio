@@ -1,0 +1,17 @@
+.logo{
+    width: 160px;
+    /* height: ; */
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: -2%;
+}
+
+.nav{
+    width: 100%;
+    background: url(pic/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
